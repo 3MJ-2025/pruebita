@@ -1,9 +1,7 @@
-<?php
-
-    nombre = "Pepe"
+<?php 
+    $variable = 10;
     function saludar(){
-	echo "Hola ". $nombre;
-        echo "";
+        echo $variable;
     }
 
     function test()
