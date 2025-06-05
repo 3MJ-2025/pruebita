@@ -1,6 +1,9 @@
-<?php 
+<?php
+
+    nombre = "Pepe"
     function saludar(){
-        echo "Hola";
+	echo "Hola ". $nombre;
+        echo "";
     }
 
     function test()
