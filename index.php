@@ -1,5 +1,8 @@
 <?php 
-    require "funciones.php";
+	require "funciones.php";
+
+	echo "Hola";
+
 
 
    
